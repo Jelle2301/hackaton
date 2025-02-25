@@ -4,42 +4,48 @@
             "id": 1,
             "name": "Zone EM/Technologie",
             "parkedCars": 0,
-            "capacity": 100
+            "capacity": 100,
+            "image": "zone_em_technologie.png"
         },
 
         {
             "id": 2,
             "name": "Zone Maaklab",
             "parkedCars": 0,
-            "capacity": 200
+            "capacity": 200,
+            "image": "zone_maaklab.png"
         },
 
         {
             "id": 3,
             "name": "Zone Onderwijs",
             "parkedCars": 0,
-            "capacity": 75
+            "capacity": 75,
+            "image": "zone_onderwijs.png"
         },
 
         {
             "id": 4,
             "name": "Zone Sociaal",
             "parkedCars": 0,
-            "capacity": 200
+            "capacity": 200,
+            "image": "zone_sociaal.png"
         },
 
         {
             "id": 5,
             "name": "Zone forum",
             "parkedCars": 0,
-            "capacity": 50
+            "capacity": 50,
+            "image": "zone_forum.png"
         },
 
         {
             "id": 6, 
             "name": "Zone Auto/Handel",
             "parkedCars": 0,
-            "capacity": 150
+            "capacity": 150,
+            "image": "zone_auto_handel.png"
         }
     ]
 }
