@@ -1,0 +1,45 @@
+{
+    "parkings": [
+        {
+            "id": 1,
+            "name": "Zone EM/Technologie",
+            "parkedCars": 0,
+            "capacity": 100
+        },
+
+        {
+            "id": 2,
+            "name": "Zone Maaklab",
+            "parkedCars": 0,
+            "capacity": 200
+        },
+
+        {
+            "id": 3,
+            "name": "Zone Onderwijs",
+            "parkedCars": 0,
+            "capacity": 75
+        },
+
+        {
+            "id": 4,
+            "name": "Zone Sociaal",
+            "parkedCars": 0,
+            "capacity": 200
+        },
+
+        {
+            "id": 5,
+            "name": "Zone forum",
+            "parkedCars": 0,
+            "capacity": 50
+        },
+
+        {
+            "id": 6, 
+            "name": "Zone Auto/Handel",
+            "parkedCars": 0,
+            "capacity": 150
+        }
+    ]
+}
