@@ -1,0 +1,542 @@
+[
+    {
+      "ParkingID": 1,
+      "Dag": "Maandag",
+      "Uren": [
+        {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 50},
+        {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 75},
+        {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 85},
+        {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 90},
+        {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 95},
+        {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 90},
+        {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 85},
+        {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 70},
+        {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 60},
+        {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 50},
+        {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 40},
+        {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 30}
+      ]
+    },
+    {
+      "ParkingID": 1,
+      "Dag": "Dinsdag",
+      "Uren": [
+        {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 52},
+        {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 78},
+        {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 88},
+        {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 93},
+        {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 98},
+        {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 95},
+        {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 90},
+        {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 72},
+        {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 62},
+        {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 53},
+        {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 43},
+        {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 35}
+      ]
+    },
+    {
+      "ParkingID": 1,
+      "Dag": "Woensdag",
+      "Uren": [
+        {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 48},
+        {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 76},
+        {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 85},
+        {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 91},
+        {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 97},
+        {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 93},
+        {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 86},
+        {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 71},
+        {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 61},
+        {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 53},
+        {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 44},
+        {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 36}
+      ]
+    },
+    {
+      "ParkingID": 1,
+      "Dag": "Donderdag",
+      "Uren": [
+        {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 53},
+        {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 74},
+        {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 84},
+        {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 89},
+        {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 94},
+        {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 89},
+        {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 83},
+        {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 68},
+        {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 59},
+        {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 50},
+        {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 41},
+        {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 33}
+      ]
+    },
+    {
+      "ParkingID": 1,
+      "Dag": "Vrijdag",
+      "Uren": [
+        {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 55},
+        {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 80},
+        {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 90},
+        {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 95},
+        {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 99},
+        {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 95},
+        {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 90},
+        {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 74},
+        {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 63},
+        {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 55},
+        {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 46},
+        {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 38}
+      ]
+    },
+    {
+        "ParkingID": 2,
+        "Dag": "Maandag",
+        "Uren": [
+            {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 150},
+            {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 160},
+            {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 170},
+            {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 180},
+            {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 190},
+            {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 185},
+            {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 175},
+            {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 165},
+            {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 155},
+            {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 145},
+            {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 135},
+            {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 125}
+        ]
+    },
+    {
+        "ParkingID": 2,
+        "Dag": "Dinsdag",
+        "Uren": [
+            {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 155},
+            {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 165},
+            {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 175},
+            {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 185},
+            {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 195},
+            {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 190},
+            {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 180},
+            {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 170},
+            {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 160},
+            {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 150},
+            {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 140},
+            {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 130}
+        ]
+    },
+    {
+        "ParkingID": 2,
+        "Dag": "Woensdag",
+        "Uren": [
+            {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 152},
+            {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 162},
+            {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 172},
+            {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 182},
+            {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 192},
+            {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 187},
+            {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 177},
+            {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 167},
+            {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 157},
+            {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 147},
+            {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 137},
+            {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 127}
+        ]
+    },
+    {
+        "ParkingID": 2,
+        "Dag": "Donderdag",
+        "Uren": [
+            {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 154},
+            {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 164},
+            {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 174},
+            {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 184},
+            {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 194},
+            {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 189},
+            {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 179},
+            {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 169},
+            {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 159},
+            {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 149},
+            {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 139},
+            {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 129}
+        ]
+    },
+    {
+        "ParkingID": 2,
+        "Dag": "Vrijdag",
+        "Uren": [
+            {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 157},
+            {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 167},
+            {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 177},
+            {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 187},
+            {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 197},
+            {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 192},
+            {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 182},
+            {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 172},
+            {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 162},
+            {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 152},
+            {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 142},
+            {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 132}
+        ]
+    },
+      {
+        "ParkingID": 3,
+        "Dag": "Maandag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 25},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 45},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 60},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 70},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 75},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 70},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 60},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 40},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 30},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 20},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 10}
+        ]
+      },
+      {
+        "ParkingID": 3,
+        "Dag": "Dinsdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 30},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 60},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 70},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 75},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 70},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 60},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 40},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 30},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 20},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 10}
+        ]
+      },
+      {
+        "ParkingID": 3,
+        "Dag": "Woensdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 32},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 52},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 62},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 72},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 75},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 72},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 62},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 40},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 30},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 20},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 10}
+        ]
+      },
+      {
+        "ParkingID": 3,
+        "Dag": "Donderdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 30},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 60},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 70},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 75},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 70},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 60},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 40},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 30},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 20},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 10}
+        ]
+      },
+      {
+        "ParkingID": 3,
+        "Dag": "Vrijdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 32},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 52},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 62},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 72},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 75},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 72},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 62},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 40},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 30},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 20},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 10}
+        ]
+      },
+      {
+        "ParkingID": 4,
+        "Dag": "Maandag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 40},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 130},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 170},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 190},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 200},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 190},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 170},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 150},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 120},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 90},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 60},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 30}
+        ]
+      },
+      {
+        "ParkingID": 4,
+        "Dag": "Dinsdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 40},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 130},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 170},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 190},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 200},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 190},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 170},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 150},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 120},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 90},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 60},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 30}
+        ]
+      },
+      {
+        "ParkingID": 4,
+        "Dag": "Woensdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 40},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 100},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 130},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 160},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 170},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 160},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 140},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 120},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 100},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 80},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 60},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 40}
+        ]
+      },
+      {
+        "ParkingID": 4,
+        "Dag": "Donderdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 40},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 110},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 140},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 160},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 170},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 160},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 140},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 120},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 100},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 80},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 60},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 40}
+        ]
+      },
+      {
+        "ParkingID": 4,
+        "Dag": "Vrijdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 40},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 110},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 140},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 160},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 170},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 160},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 140},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 120},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 100},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 80},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 60},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 40}
+        ]
+      },
+      {
+        "ParkingID": 5,
+        "Dag": "Maandag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 20},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 40},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 35},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 25},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 15},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 10}
+        ]
+      },
+      {
+        "ParkingID": 5,
+        "Dag": "Dinsdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 22},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 42},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 38},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 28},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 18},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 12}
+        ]
+      },
+      {
+        "ParkingID": 5,
+        "Dag": "Woensdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 25},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 45},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 40},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 35},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 25},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 15},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 10}
+        ]
+      },
+      {
+        "ParkingID": 5,
+        "Dag": "Donderdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 23},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 45},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 41},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 36},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 26},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 17},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 12}
+        ]
+      },
+      {
+        "ParkingID": 5,
+        "Dag": "Vrijdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 24},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 50},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 45},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 41},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 36},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 26},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 18},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 13}
+        ]
+      },
+      {
+        "ParkingID": 6,
+        "Dag": "Maandag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 66},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 100},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 115},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 123},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 131},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 123},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 115},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 96},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 81},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 69},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 57},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 46}
+        ]
+      },
+      {
+        "ParkingID": 6,
+        "Dag": "Dinsdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 69},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 106},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 121},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 129},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 136},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 129},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 120},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 98},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 85},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 73},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 61},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 49}
+        ]
+      },
+      {
+        "ParkingID": 6,
+        "Dag": "Woensdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 72},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 109},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 125},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 132},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 140},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 132},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 123},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 100},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 87},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 75},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 63},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 52}
+        ]
+      },
+      {
+        "ParkingID": 6,
+        "Dag": "Donderdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 74},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 112},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 127},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 135},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 143},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 135},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 126},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 102},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 90},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 78},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 66},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 55}
+        ]
+      },
+      {
+        "ParkingID": 6,
+        "Dag": "Vrijdag",
+        "Uren": [
+          {"Uur": "07:00:00", "AantalGeparkeerdeVoertuigen": 76},
+          {"Uur": "08:00:00", "AantalGeparkeerdeVoertuigen": 115},
+          {"Uur": "09:00:00", "AantalGeparkeerdeVoertuigen": 130},
+          {"Uur": "10:00:00", "AantalGeparkeerdeVoertuigen": 137},
+          {"Uur": "11:00:00", "AantalGeparkeerdeVoertuigen": 145},
+          {"Uur": "12:00:00", "AantalGeparkeerdeVoertuigen": 137},
+          {"Uur": "13:00:00", "AantalGeparkeerdeVoertuigen": 128},
+          {"Uur": "14:00:00", "AantalGeparkeerdeVoertuigen": 105},
+          {"Uur": "15:00:00", "AantalGeparkeerdeVoertuigen": 93},
+          {"Uur": "16:00:00", "AantalGeparkeerdeVoertuigen": 81},
+          {"Uur": "17:00:00", "AantalGeparkeerdeVoertuigen": 69},
+          {"Uur": "18:00:00", "AantalGeparkeerdeVoertuigen": 57}
+        ]
+      }
+  ]
